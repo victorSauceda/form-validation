@@ -2,7 +2,7 @@
 
 ## Functionality
 
-This form uses Javascript to validated the input fields on submit
+This form uses Javascript to validated the input fields when the user submits their form
 
 
 ### Validation requirements
